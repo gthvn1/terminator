@@ -592,7 +592,6 @@
     scrollback_infinite = True
     background_color = "#1f202d"
     foreground_color = "#ffffff"
-    scrollback_infinite = True
     palette = "#000000:#e00202:#00aa00:#aa5500:#a8a8c4:#aa00aa:#00aaaa:#aaaaaa:#555555:#ff5555:#55ff55:#ffff55:#c9c9da:#ff55ff:#55ffff:#ffffff"
   [[LiquidCarbon]]
     show_titlebar = False
