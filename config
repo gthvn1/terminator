@@ -18,7 +18,7 @@
   [[3024 Night]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#090300"
     cursor_color = "#a5a2a2"
     foreground_color = "#a5a2a2"
@@ -26,7 +26,7 @@
   [[AdventureTime]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#1f1d45"
     cursor_color = "#efbf38"
     foreground_color = "#f8dcc0"
@@ -34,7 +34,7 @@
   [[Afterglow]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#212121"
     cursor_color = "#d0d0d0"
     foreground_color = "#d0d0d0"
@@ -42,7 +42,7 @@
   [[AlienBlood]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#0f1610"
     cursor_color = "#73fa91"
     foreground_color = "#637d75"
@@ -50,7 +50,7 @@
   [[Argonaut]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#0e1019"
     cursor_color = "#ff0018"
     foreground_color = "#fffaf4"
@@ -58,7 +58,7 @@
   [[Arthur]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#1c1c1c"
     cursor_color = "#e2bbef"
     foreground_color = "#ddeedd"
@@ -66,7 +66,7 @@
   [[AtelierSulphurpool]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#202746"
     cursor_color = "#979db4"
     foreground_color = "#979db4"
@@ -74,7 +74,7 @@
   [[Atom]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#161719"
     cursor_color = "#d0d0d0"
     foreground_color = "#c5c8c6"
@@ -82,7 +82,7 @@
   [[AtomOneLight]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#f9f9f9"
     cursor_color = "#bbbbbb"
     foreground_color = "#2a2c33"
@@ -90,7 +90,7 @@
   [[Batman]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#1b1d1e"
     cursor_color = "#fcef0c"
     foreground_color = "#6f6f6f"
@@ -98,7 +98,7 @@
   [[Belafonte Day]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#d5ccba"
     cursor_color = "#45373c"
     foreground_color = "#45373c"
@@ -106,7 +106,7 @@
   [[Belafonte Night]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#20111b"
     cursor_color = "#968c83"
     foreground_color = "#968c83"
@@ -114,7 +114,7 @@
   [[BirdsOfParadise]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#2a1f1d"
     cursor_color = "#573d26"
     foreground_color = "#e0dbb7"
@@ -122,7 +122,7 @@
   [[Blazer]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#0d1926"
     cursor_color = "#d9e6f2"
     foreground_color = "#d9e6f2"
@@ -130,7 +130,7 @@
   [[Borland]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#0000a4"
     cursor_color = "#ffa560"
     foreground_color = "#ffff4e"
@@ -138,7 +138,7 @@
   [[Bright Lights]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#191919"
     cursor_color = "#f34b00"
     foreground_color = "#b3c9d7"
@@ -146,7 +146,7 @@
   [[Broadcast]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#2b2b2b"
     cursor_color = "#ffffff"
     foreground_color = "#e6e1dc"
@@ -154,7 +154,7 @@
   [[Brogrammer]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#131313"
     cursor_color = "#b9b9b9"
     foreground_color = "#d6dbe5"
@@ -162,7 +162,7 @@
   [[C64]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#40318d"
     cursor_color = "#7869c4"
     foreground_color = "#7869c4"
@@ -170,7 +170,7 @@
   [[CLRS]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#ffffff"
     cursor_color = "#6fd3fc"
     foreground_color = "#262626"
@@ -178,7 +178,7 @@
   [[Chalk]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#2b2d2e"
     cursor_color = "#708284"
     foreground_color = "#d2d8d9"
@@ -186,7 +186,7 @@
   [[Chalkboard]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#29262f"
     cursor_color = "#d9e6f2"
     foreground_color = "#d9e6f2"
@@ -194,7 +194,7 @@
   [[Ciapre]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#191c27"
     cursor_color = "#92805b"
     foreground_color = "#aea47a"
@@ -202,7 +202,7 @@
   [[Cobalt Neon]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#142838"
     cursor_color = "#c4206f"
     foreground_color = "#8ff586"
@@ -210,7 +210,7 @@
   [[Cobalt2]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#132738"
     cursor_color = "#f0e609"
     foreground_color = "#ffffff"
@@ -218,7 +218,7 @@
   [[CrayonPonyFish]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#150707"
     cursor_color = "#68525a"
     foreground_color = "#68525a"
@@ -226,14 +226,14 @@
   [[Dark Pastel]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     cursor_color = "#bbbbbb"
     foreground_color = "#ffffff"
     palette = "#000000:#ff5555:#55ff55:#ffff55:#5555ff:#ff55ff:#55ffff:#bbbbbb:#555555:#ff5555:#55ff55:#ffff55:#5555ff:#ff55ff:#55ffff:#ffffff"
   [[Darkside]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#222324"
     cursor_color = "#bbbbbb"
     foreground_color = "#bababa"
@@ -241,7 +241,7 @@
   [[Desert]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#333333"
     cursor_color = "#00ff00"
     foreground_color = "#ffffff"
@@ -249,7 +249,7 @@
   [[DimmedMonokai]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#1f1f1f"
     cursor_color = "#f83e19"
     foreground_color = "#b9bcba"
@@ -257,7 +257,7 @@
   [[DotGov]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#262c35"
     cursor_color = "#d9002f"
     foreground_color = "#ebebeb"
@@ -265,7 +265,7 @@
   [[Dracula]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#1e1f29"
     cursor_color = "#bbbbbb"
     foreground_color = "#f8f8f2"
@@ -273,7 +273,7 @@
   [[Duotone Dark]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#1f1d27"
     cursor_color = "#ff9839"
     foreground_color = "#b7a1ff"
@@ -281,14 +281,14 @@
   [[ENCOM]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     cursor_color = "#bbbbbb"
     foreground_color = "#00a595"
     palette = "#000000:#9f0000:#008b00:#ffd000:#0081ff:#bc00ca:#008b8b:#bbbbbb:#555555:#ff0000:#00ee00:#ffff00:#0000ff:#ff00ff:#00cdcd:#ffffff"
   [[Earthsong]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#292520"
     cursor_color = "#f6f7ec"
     foreground_color = "#e5c7a9"
@@ -296,7 +296,7 @@
   [[Elemental]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#22211d"
     cursor_color = "#facb80"
     foreground_color = "#807a74"
@@ -304,7 +304,7 @@
   [[Elementary]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#181818"
     cursor_color = "#bbbbbb"
     foreground_color = "#efefef"
@@ -312,7 +312,7 @@
   [[Espresso]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#323232"
     cursor_color = "#d6d6d6"
     foreground_color = "#ffffff"
@@ -320,7 +320,7 @@
   [[Espresso Libre]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#2a211c"
     cursor_color = "#ffffff"
     foreground_color = "#b8a898"
@@ -328,7 +328,7 @@
   [[Fideloper]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#292f33"
     cursor_color = "#d4605a"
     foreground_color = "#dbdae0"
@@ -336,7 +336,7 @@
   [[FirefoxDev]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#0e1011"
     cursor_color = "#708284"
     foreground_color = "#7c8fa4"
@@ -344,7 +344,7 @@
   [[Firewatch]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#1e2027"
     cursor_color = "#f6f7ec"
     foreground_color = "#9ba2b2"
@@ -352,7 +352,7 @@
   [[FishTank]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#232537"
     cursor_color = "#fecd5e"
     foreground_color = "#ecf0fe"
@@ -360,7 +360,7 @@
   [[Flat]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#002240"
     cursor_color = "#e5be0c"
     foreground_color = "#2cc55d"
@@ -368,7 +368,7 @@
   [[Flatland]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#1d1f21"
     cursor_color = "#708284"
     foreground_color = "#b8dbef"
@@ -376,7 +376,7 @@
   [[Floraverse]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#0e0d15"
     cursor_color = "#bbbbbb"
     foreground_color = "#dbd1b9"
@@ -384,7 +384,7 @@
   [[ForestBlue]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#051519"
     cursor_color = "#9e9ecb"
     foreground_color = "#e2d8cd"
@@ -392,7 +392,7 @@
   [[FrontEndDelight]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#1b1c1d"
     cursor_color = "#cdcdcd"
     foreground_color = "#adadad"
@@ -400,7 +400,7 @@
   [[FunForrest]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#251200"
     cursor_color = "#e5591c"
     foreground_color = "#dec165"
@@ -408,7 +408,7 @@
   [[Galaxy]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#1d2837"
     cursor_color = "#bbbbbb"
     foreground_color = "#ffffff"
@@ -416,7 +416,7 @@
   [[Github]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#f4f4f4"
     cursor_color = "#3f3f3f"
     foreground_color = "#3e3e3e"
@@ -424,7 +424,7 @@
   [[Glacier]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#0c1115"
     cursor_color = "#6c6c6c"
     foreground_color = "#ffffff"
@@ -432,7 +432,7 @@
   [[Grape]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#171423"
     cursor_color = "#a288f7"
     foreground_color = "#9f9fa1"
@@ -440,7 +440,7 @@
   [[Grass]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#13773d"
     cursor_color = "#8c2800"
     foreground_color = "#fff0a5"
@@ -448,7 +448,7 @@
   [[Gruvbox Dark]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#1e1e1e"
     cursor_color = "#bbbbbb"
     foreground_color = "#e6d4a3"
@@ -456,7 +456,7 @@
   [[Hardcore]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#121212"
     cursor_color = "#bbbbbb"
     foreground_color = "#a0a0a0"
@@ -464,7 +464,7 @@
   [[Harper]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#010101"
     cursor_color = "#a8a49d"
     foreground_color = "#a8a49d"
@@ -472,7 +472,7 @@
   [[Highway]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#222225"
     cursor_color = "#e0d9b9"
     foreground_color = "#ededed"
@@ -480,7 +480,7 @@
   [[Hipster Green]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#100b05"
     cursor_color = "#23ff18"
     foreground_color = "#84c138"
@@ -488,21 +488,21 @@
   [[Homebrew]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     cursor_color = "#23ff18"
     foreground_color = "#00ff00"
     palette = "#000000:#990000:#00a600:#999900:#0000b2:#b200b2:#00a6b2:#bfbfbf:#666666:#e50000:#00d900:#e5e500:#0000ff:#e500e5:#00e5e5:#e5e5e5"
   [[Hurtado]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     cursor_color = "#bbbbbb"
     foreground_color = "#dbdbdb"
     palette = "#575757:#ff1b00:#a5e055:#fbe74a:#496487:#fd5ff1:#86e9fe:#cbcccb:#262626:#d51d00:#a5df55:#fbe84a:#89beff:#c001c1:#86eafe:#dbdbdb"
   [[Hybrid]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#161719"
     cursor_color = "#b7bcba"
     foreground_color = "#b7bcba"
@@ -510,7 +510,7 @@
   [[IC_Green_PPL]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#3a3d3f"
     cursor_color = "#42ff58"
     foreground_color = "#d9efd3"
@@ -518,7 +518,7 @@
   [[IC_Orange_PPL]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#262626"
     cursor_color = "#fc531d"
     foreground_color = "#ffcb83"
@@ -526,14 +526,14 @@
   [[IR_Black]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     cursor_color = "#808080"
     foreground_color = "#f1f1f1"
     palette = "#4f4f4f:#fa6c60:#a8ff60:#fffeb7:#96cafe:#fa73fd:#c6c5fe:#efedef:#7b7b7b:#fcb6b0:#cfffab:#ffffcc:#b5dcff:#fb9cfe:#e0e0fe:#ffffff"
   [[Jackie Brown]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#2c1d16"
     cursor_color = "#23ff18"
     foreground_color = "#ffcc2f"
@@ -541,7 +541,7 @@
   [[Japanesque]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#1e1e1e"
     cursor_color = "#edcf4f"
     foreground_color = "#f7f6ec"
@@ -549,7 +549,7 @@
   [[Jellybeans]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#121212"
     cursor_color = "#ffa560"
     foreground_color = "#dedede"
@@ -557,7 +557,7 @@
   [[JetBrains Darcula]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#202020"
     cursor_color = "#ffffff"
     foreground_color = "#adadad"
@@ -565,7 +565,7 @@
   [[Kibble]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#0e100a"
     cursor_color = "#9fda9c"
     foreground_color = "#f7f7f7"
@@ -573,7 +573,7 @@
   [[Later This Evening]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#222222"
     cursor_color = "#424242"
     foreground_color = "#959595"
@@ -581,7 +581,7 @@
   [[Lavandula]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#050014"
     cursor_color = "#8c91fa"
     foreground_color = "#736e7d"
@@ -589,7 +589,7 @@
   [[Linux]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#1f202d"
     foreground_color = "#ffffff"
     scrollback_infinite = True
@@ -597,7 +597,7 @@
   [[LiquidCarbon]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#303030"
     cursor_color = "#ffffff"
     foreground_color = "#afc2c2"
@@ -605,21 +605,21 @@
   [[LiquidCarbonTransparent]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     cursor_color = "#ffffff"
     foreground_color = "#afc2c2"
     palette = "#000000:#ff3030:#559a70:#ccac00:#0099cc:#cc69c8:#7ac4cc:#bccccc:#000000:#ff3030:#559a70:#ccac00:#0099cc:#cc69c8:#7ac4cc:#bccccc"
   [[LiquidCarbonTransparentInverse]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     cursor_color = "#ffffff"
     foreground_color = "#afc2c2"
     palette = "#bccccd:#ff3030:#559a70:#ccac00:#0099cc:#cc69c8:#7ac4cc:#000000:#ffffff:#ff3030:#559a70:#ccac00:#0099cc:#cc69c8:#7ac4cc:#000000"
   [[Man Page]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#fef49c"
     cursor_color = "#7f7f7f"
     foreground_color = "#000000"
@@ -627,7 +627,7 @@
   [[Material]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#eaeaea"
     cursor_color = "#16afca"
     foreground_color = "#232322"
@@ -635,7 +635,7 @@
   [[MaterialDark]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#232322"
     cursor_color = "#16afca"
     foreground_color = "#e5e5e5"
@@ -643,14 +643,14 @@
   [[Mathias]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     cursor_color = "#bbbbbb"
     foreground_color = "#bbbbbb"
     palette = "#000000:#e52222:#a6e32d:#fc951e:#c48dff:#fa2573:#67d9f0:#f2f2f2:#555555:#ff5555:#55ff55:#ffff55:#5555ff:#ff55ff:#55ffff:#ffffff"
   [[Medallion]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#1d1908"
     cursor_color = "#d3ba30"
     foreground_color = "#cac296"
@@ -658,7 +658,7 @@
   [[Misterioso]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#2d3743"
     cursor_color = "#ebebeb"
     foreground_color = "#e1e1e0"
@@ -666,7 +666,7 @@
   [[Molokai]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#121212"
     cursor_color = "#bbbbbb"
     foreground_color = "#bbbbbb"
@@ -674,7 +674,7 @@
   [[MonaLisa]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#120b0d"
     cursor_color = "#c46c32"
     foreground_color = "#f7d66a"
@@ -682,7 +682,7 @@
   [[Monokai Soda]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#1a1a1a"
     cursor_color = "#f6f7ec"
     foreground_color = "#c4c5b5"
@@ -690,7 +690,7 @@
   [[Monokai Vivid]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#121212"
     cursor_color = "#fb0007"
     foreground_color = "#f9f9f9"
@@ -698,7 +698,7 @@
   [[N0tch2k]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#222222"
     cursor_color = "#aa9175"
     foreground_color = "#a0a0a0"
@@ -706,7 +706,7 @@
   [[Neopolitan]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#271f19"
     cursor_color = "#ffffff"
     foreground_color = "#ffffff"
@@ -714,7 +714,7 @@
   [[Neutron]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#1c1e22"
     cursor_color = "#f6f7ec"
     foreground_color = "#e6e8ef"
@@ -722,14 +722,14 @@
   [[NightLion v1]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     cursor_color = "#bbbbbb"
     foreground_color = "#bbbbbb"
     palette = "#4c4c4c:#bb0000:#5fde8f:#f3f167:#276bd8:#bb00bb:#00dadf:#bbbbbb:#555555:#ff5555:#55ff55:#ffff55:#5555ff:#ff55ff:#55ffff:#ffffff"
   [[NightLion v2]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#171717"
     cursor_color = "#bbbbbb"
     foreground_color = "#bbbbbb"
@@ -737,7 +737,7 @@
   [[Novel]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#dfdbc3"
     cursor_color = "#73635a"
     foreground_color = "#3b2322"
@@ -745,7 +745,7 @@
   [[Obsidian]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#283033"
     cursor_color = "#c0cad0"
     foreground_color = "#cdcdcd"
@@ -753,7 +753,7 @@
   [[Ocean]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#224fbc"
     cursor_color = "#7f7f7f"
     foreground_color = "#ffffff"
@@ -761,7 +761,7 @@
   [[OceanicMaterial]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#1c262b"
     cursor_color = "#b3b8c3"
     foreground_color = "#c2c8d7"
@@ -769,7 +769,7 @@
   [[Ollie]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#222125"
     cursor_color = "#5b6ea7"
     foreground_color = "#8a8dae"
@@ -777,7 +777,7 @@
   [[OneHalfDark]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#282c34"
     cursor_color = "#a3b3cc"
     foreground_color = "#dcdfe4"
@@ -785,7 +785,7 @@
   [[OneHalfLight]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#fafafa"
     cursor_color = "#bfceff"
     foreground_color = "#383a42"
@@ -793,7 +793,7 @@
   [[Pandora]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#141e43"
     cursor_color = "#43d58e"
     foreground_color = "#e1e1e1"
@@ -801,7 +801,7 @@
   [[Paraiso Dark]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#2f1e2e"
     cursor_color = "#a39e9b"
     foreground_color = "#a39e9b"
@@ -809,7 +809,7 @@
   [[Parasio Dark]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#2f1e2e"
     cursor_color = "#a39e9b"
     foreground_color = "#a39e9b"
@@ -817,14 +817,14 @@
   [[PaulMillr]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     cursor_color = "#4d4d4d"
     foreground_color = "#f2f2f2"
     palette = "#2a2a2a:#ff0000:#79ff0f:#e7bf00:#396bd7:#b449be:#66ccff:#bbbbbb:#666666:#ff0080:#66ff66:#f3d64e:#709aed:#db67e6:#7adff2:#ffffff"
   [[PencilDark]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#212121"
     cursor_color = "#20bbfc"
     foreground_color = "#f1f1f1"
@@ -832,7 +832,7 @@
   [[PencilLight]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#f1f1f1"
     cursor_color = "#20bbfc"
     foreground_color = "#424242"
@@ -840,7 +840,7 @@
   [[Piatto Light]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#ffffff"
     cursor_color = "#5e77c8"
     foreground_color = "#414141"
@@ -848,7 +848,7 @@
   [[Pnevma]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#1c1c1c"
     cursor_color = "#e4c9af"
     foreground_color = "#d0d0d0"
@@ -856,14 +856,14 @@
   [[Pro]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     cursor_color = "#4d4d4d"
     foreground_color = "#f2f2f2"
     palette = "#000000:#990000:#00a600:#999900:#2009db:#b200b2:#00a6b2:#bfbfbf:#666666:#e50000:#00d900:#e5e500:#0000ff:#e500e5:#00e5e5:#e5e5e5"
   [[Red Alert]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#762423"
     cursor_color = "#ffffff"
     foreground_color = "#ffffff"
@@ -871,7 +871,7 @@
   [[Red Sands]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#7a251e"
     cursor_color = "#ffffff"
     foreground_color = "#d7c9a7"
@@ -879,7 +879,7 @@
   [[Rippedcasts]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#2b2b2b"
     cursor_color = "#7f7f7f"
     foreground_color = "#ffffff"
@@ -887,7 +887,7 @@
   [[Royal]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#100815"
     cursor_color = "#524966"
     foreground_color = "#514968"
@@ -895,7 +895,7 @@
   [[Ryuuko]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#2c3941"
     cursor_color = "#ececec"
     foreground_color = "#ececec"
@@ -903,7 +903,7 @@
   [[SeaShells]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#09141b"
     cursor_color = "#fca02f"
     foreground_color = "#deb88d"
@@ -911,7 +911,7 @@
   [[Seafoam Pastel]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#243435"
     cursor_color = "#57647a"
     foreground_color = "#d4e7d4"
@@ -919,7 +919,7 @@
   [[Seti]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#111213"
     cursor_color = "#e3bf21"
     foreground_color = "#cacecd"
@@ -927,7 +927,7 @@
   [[Shaman]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#001015"
     cursor_color = "#4afcd6"
     foreground_color = "#405555"
@@ -935,7 +935,7 @@
   [[Slate]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#222222"
     cursor_color = "#87d3c4"
     foreground_color = "#35b1d2"
@@ -943,7 +943,7 @@
   [[Smyck]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#1b1b1b"
     cursor_color = "#bbbbbb"
     foreground_color = "#f7f7f7"
@@ -951,7 +951,7 @@
   [[SoftServer]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#242626"
     cursor_color = "#d2e0de"
     foreground_color = "#99a3a2"
@@ -959,7 +959,7 @@
   [[Solarized Darcula]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#3d3f41"
     cursor_color = "#708284"
     foreground_color = "#d2d8d9"
@@ -967,7 +967,7 @@
   [[Solarized Dark]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#001e27"
     cursor_color = "#708284"
     foreground_color = "#708284"
@@ -975,7 +975,7 @@
   [[Solarized Dark - Patched]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#001e27"
     cursor_color = "#708284"
     foreground_color = "#708284"
@@ -983,7 +983,7 @@
   [[Solarized Dark Higher Contrast]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#001e27"
     cursor_color = "#f34b00"
     foreground_color = "#9cc2c3"
@@ -991,7 +991,7 @@
   [[Solarized Light]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#fcf4dc"
     cursor_color = "#536870"
     foreground_color = "#536870"
@@ -999,7 +999,7 @@
   [[SpaceGray]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#20242d"
     cursor_color = "#b3b8c3"
     foreground_color = "#b3b8c3"
@@ -1007,7 +1007,7 @@
   [[SpaceGray Eighties]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#222222"
     cursor_color = "#bbbbbb"
     foreground_color = "#bdbaae"
@@ -1015,7 +1015,7 @@
   [[SpaceGray Eighties Dull]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#222222"
     cursor_color = "#bbbbbb"
     foreground_color = "#c9c6bc"
@@ -1023,7 +1023,7 @@
   [[Spacedust]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#0a1e24"
     cursor_color = "#708284"
     foreground_color = "#ecf0c1"
@@ -1031,7 +1031,7 @@
   [[Spiderman]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#1b1d1e"
     cursor_color = "#2c3fff"
     foreground_color = "#e3e3e3"
@@ -1039,7 +1039,7 @@
   [[Spring]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#ffffff"
     cursor_color = "#4d4d4c"
     foreground_color = "#4d4d4c"
@@ -1047,7 +1047,7 @@
   [[Square]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#1a1a1a"
     cursor_color = "#fcfbcc"
     foreground_color = "#acacab"
@@ -1055,7 +1055,7 @@
   [[Sundried]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#1a1818"
     cursor_color = "#ffffff"
     foreground_color = "#c9c9c9"
@@ -1063,14 +1063,14 @@
   [[Symfonic]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     cursor_color = "#dc322f"
     foreground_color = "#ffffff"
     palette = "#000000:#dc322f:#56db3a:#ff8400:#0084d4:#b729d9:#ccccff:#ffffff:#1b1d21:#dc322f:#56db3a:#ff8400:#0084d4:#b729d9:#ccccff:#ffffff"
   [[Teerb]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#262626"
     cursor_color = "#e4c9af"
     foreground_color = "#d0d0d0"
@@ -1078,7 +1078,7 @@
   [[Terminal Basic]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#ffffff"
     cursor_color = "#7f7f7f"
     foreground_color = "#000000"
@@ -1086,7 +1086,7 @@
   [[Thayer Bright]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#1b1d1e"
     cursor_color = "#fc971f"
     foreground_color = "#f8f8f8"
@@ -1094,7 +1094,7 @@
   [[The Hulk]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#1b1d1e"
     cursor_color = "#16b61b"
     foreground_color = "#b5b5b5"
@@ -1102,7 +1102,7 @@
   [[Tomorrow]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#ffffff"
     cursor_color = "#4d4d4c"
     foreground_color = "#4d4d4c"
@@ -1110,7 +1110,7 @@
   [[Tomorrow Night]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#1d1f21"
     cursor_color = "#c5c8c6"
     foreground_color = "#c5c8c6"
@@ -1118,7 +1118,7 @@
   [[Tomorrow Night Blue]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#002451"
     cursor_color = "#ffffff"
     foreground_color = "#ffffff"
@@ -1126,14 +1126,14 @@
   [[Tomorrow Night Bright]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     cursor_color = "#eaeaea"
     foreground_color = "#eaeaea"
     palette = "#000000:#d54e53:#b9ca4a:#e7c547:#7aa6da:#c397d8:#70c0b1:#ffffff:#000000:#d54e53:#b9ca4a:#e7c547:#7aa6da:#c397d8:#70c0b1:#ffffff"
   [[Tomorrow Night Eighties]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#2d2d2d"
     cursor_color = "#cccccc"
     foreground_color = "#cccccc"
@@ -1141,7 +1141,7 @@
   [[ToyChest]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#24364b"
     cursor_color = "#d5d5d5"
     foreground_color = "#31d07b"
@@ -1149,7 +1149,7 @@
   [[Treehouse]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#191919"
     cursor_color = "#fac814"
     foreground_color = "#786b53"
@@ -1157,7 +1157,7 @@
   [[Twilight]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#141414"
     cursor_color = "#ffffff"
     foreground_color = "#ffffd4"
@@ -1165,14 +1165,14 @@
   [[Ubuntu]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#300a24"
     cursor_color = "#bbbbbb"
     foreground_color = "#eeeeec"
   [[UnderTheSea]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#011116"
     cursor_color = "#4afcd6"
     foreground_color = "#ffffff"
@@ -1180,7 +1180,7 @@
   [[Urple]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#1b1b23"
     cursor_color = "#a063eb"
     foreground_color = "#877a9b"
@@ -1188,7 +1188,7 @@
   [[Vaughn]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#25234f"
     cursor_color = "#ff5555"
     foreground_color = "#dcdccc"
@@ -1196,14 +1196,14 @@
   [[VibrantInk]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     cursor_color = "#ffffff"
     foreground_color = "#ffffff"
     palette = "#878787:#ff6600:#ccff04:#ffcc00:#44b4cc:#9933cc:#44b4cc:#f5f5f5:#555555:#ff0000:#00ff00:#ffff00:#0000ff:#ff00ff:#00ffff:#e5e5e5"
   [[Violet Dark]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#1c1d1f"
     cursor_color = "#708284"
     foreground_color = "#708284"
@@ -1211,7 +1211,7 @@
   [[Violet Light]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#fcf4dc"
     cursor_color = "#536870"
     foreground_color = "#536870"
@@ -1219,7 +1219,7 @@
   [[WarmNeon]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#404040"
     cursor_color = "#30ff24"
     foreground_color = "#afdab6"
@@ -1227,14 +1227,14 @@
   [[Wez]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     cursor_color = "#53ae71"
     foreground_color = "#b3b3b3"
     palette = "#000000:#cc5555:#55cc55:#cdcd55:#5555cc:#cc55cc:#7acaca:#cccccc:#555555:#ff5555:#55ff55:#ffff55:#5555ff:#ff55ff:#55ffff:#ffffff"
   [[WildCherry]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#1f1726"
     cursor_color = "#dd00ff"
     foreground_color = "#dafaff"
@@ -1242,7 +1242,7 @@
   [[Wombat]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#171717"
     cursor_color = "#bbbbbb"
     foreground_color = "#dedacf"
@@ -1250,7 +1250,7 @@
   [[Wryan]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#101010"
     cursor_color = "#9e9ecb"
     foreground_color = "#999993"
@@ -1258,7 +1258,7 @@
   [[Zenburn]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#3f3f3f"
     cursor_color = "#73635a"
     foreground_color = "#dcdccc"
@@ -1266,7 +1266,7 @@
   [[ayu]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#0f1419"
     cursor_color = "#f29718"
     foreground_color = "#e6e1cf"
@@ -1274,7 +1274,7 @@
   [[ayu_light]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#fafafa"
     cursor_color = "#ff6a00"
     foreground_color = "#5c6773"
@@ -1282,7 +1282,7 @@
   [[deep]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#090909"
     cursor_color = "#d0d0d0"
     foreground_color = "#cdcdcd"
@@ -1290,7 +1290,7 @@
   [[idleToes]]
     show_titlebar = False
     scrollbar_position = hidden
-    scrollbar_infinite = True
+    scrollback_infinite = True
     background_color = "#323232"
     cursor_color = "#d6d6d6"
     foreground_color = "#ffffff"
